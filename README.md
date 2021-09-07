@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I'm a front end engineer currently focusing on building single page applications with React. 
+- I'm currently building single page applications using React on the frontend with MongoDB or Firebase for the backend.  
