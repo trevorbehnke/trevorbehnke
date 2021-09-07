@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🚀 I should probably be writing code instead of working on this markdown...
+- I'm a front end engineer currently focusing on building single page applications with React. 
