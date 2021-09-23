@@ -1,2 +1,1 @@
-# Hi there 👋
-## Head first in the Jamstack w/ Svelte 🚀
+# Head first Jamstack w/ Svelte 🚀
