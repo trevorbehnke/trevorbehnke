@@ -1,3 +1,2 @@
-### Hi there 👋
-
-- My current focus is on building single page applications with the MERN stack.
+# Hi there 👋
+## Head first in the Jamstack w/ Svelte 🚀
