@@ -35,9 +35,9 @@ Over the last couple of years, I've taken _hundreds of hours_ of online courses 
 
 Because we know the best way to learn is to practice, I've also done a bunch of personal projects with the knowledge I gathered from the courses. You can check them out over at my [website](http://trevorbehnke.com/portfolio). Sometimes I also post about programming related topics in my blog.
 
-Einstein once said...
+Socrates once said...
 
-> I have no special talent. I am only passionately curious.
+> The only true wisdom is in knowing you know nothing.
 
 ...and in that sense I consider myself a ‘forever student,’ eager to both build on my academic foundations as well as stay in touch with the latest technology and strategies.
 
