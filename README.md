@@ -1,5 +1,3 @@
-# Head first Jamstack w/ Svelte 🚀
-
 <div style="display:flex;flex-direction:row">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
