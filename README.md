@@ -1,3 +1,6 @@
+👋 Always exploring the rabbit hole that is software engineering. Currently in the areas of web development and blockchain.
+I invite you to visit my website at TrevorBehnke.com where you'll find the details of my portfolio, as well as links to my socials 🚀.
+
 <!-- <div style="display:flex;flex-direction:row"> -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
