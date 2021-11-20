@@ -1,6 +1,7 @@
-🧐 Constantly exploring the rabbit hole that is software engineering. 
-🚀 Currently in the areas of web development and blockchain.
-😎 Check out my website at TrevorBehnke.com where you'll find my portfolio and links to my socials.
+## 👋 Hey I'm Trevor, a software engineer from California.
+#### Constantly exploring the rabbit hole that is software engineering 🧐.<br>
+#### Currently in the areas of web development and blockchain 🚀.<br>
+#### Check out my website at TrevorBehnke.com where you'll find my portfolio and links to my socials 😎.<br>
 
 <!-- <div style="display:flex;flex-direction:row"> -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
