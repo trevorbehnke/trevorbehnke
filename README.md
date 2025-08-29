@@ -1,6 +1,7 @@
-Full-stack software engineer and SaaS founder with 6 years’ experience building production systems end-to-end. Deep in
-Next.js/React, TypeScript/Node, PostgreSQL (Neon), Stripe, and OpenAI. Proven strength in performance, security, and cost
-optimization—shipping an AI SaaS with credits/tier systems, streaming, analytics, and 154/154 automated tests.
+Languages: TypeScript, JavaScript, Python, SQL | Frameworks: Next.js (App Router), React, Node.js/Express, Flask, SvelteKit,
+Tailwind CSS, Design Systems | Cloud/DevOps: Vercel, Neon PostgreSQL, Redis, CI/CD, Cron jobs | Data/AI: OpenAI (GPT-5),
+Anthropic Claude, Chart.js, D3.js | Auth/Payments: Clerk, Auth0, Stripe | Testing/Quality: Jest, React Testing Library, Supertest,
+Postman, Zustand | Security/Monitoring: CSP/CORS, input sanitization, file quarantine, Redis rate limiting, audit logging, Sentry
 
 <!-- <div style="display:flex;flex-direction:row"> -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
