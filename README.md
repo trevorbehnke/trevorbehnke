@@ -1,7 +1,6 @@
-## 👋 Hey I'm Trevor, a software engineer from California.
-#### Constantly exploring the rabbit hole that is software engineering 🧐.<br>
-#### Currently in the areas of web development and blockchain 🚀.<br>
-#### Check out my website at [TrevorBehnke.com](https://www.trevorbehnke.com/) where you'll find my portfolio and links to my socials 😎.<br>
+Full-stack software engineer and SaaS founder with 6 years’ experience building production systems end-to-end. Deep in
+Next.js/React, TypeScript/Node, PostgreSQL (Neon), Stripe, and OpenAI. Proven strength in performance, security, and cost
+optimization—shipping an AI SaaS with credits/tier systems, streaming, analytics, and 154/154 automated tests.
 
 <!-- <div style="display:flex;flex-direction:row"> -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
