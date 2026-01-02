@@ -49,7 +49,7 @@ Frontend-leaning full-stack engineer with experience designing, shipping, and op
   <summary><strong>Backend, APIs & Data</strong></summary>
   <br />
   
-  - Node.js, Express
+  - Node.js, Express, Python
   - RESTful API Design & Integration
   - Webhooks, Request/Response Validation
   - Error Handling
