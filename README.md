@@ -1,6 +1,6 @@
 <!-- PROFILE README -->
 
-<h1 align="center">Hi, I’m Trevor 🤓</h1>
+<h1 align="center">Greetings, earthlings 👽</h1>
 
 <p align="center">
   Frontend-leaning full-stack engineer • React / Next.js • Production SaaS & data-driven apps
